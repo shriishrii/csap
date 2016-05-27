@@ -1,4 +1,4 @@
-SAPCoin for the good and happiness of all
+CSAP for the good and happiness of all
 =========================================
 
 http://csap.blockchain-tec.net
@@ -18,7 +18,7 @@ enables the use of this currency.
 For more information, as well as an immediately useable, binary version of
 the CSAP client software, see http://csap.blockchain-tec.net.
 
-Development environment: Microsoft Visual Studio 2013 Professional
+Platform: Microsoft Visual Studio 2013 Professional
 ----------------------
 
 NB:
